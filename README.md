@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 derima45@gmail.com
-07061628441
++2347061628441
 <!---
 Joshua-Derima/Joshua-Derima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
